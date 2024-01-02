@@ -5,6 +5,8 @@ Using the following array of objects,
 (2) Write an arrow function that removes a specific book from the bookList
 (3) Write an arrow function that lists out all the books or all the authors in the book list */
 
+console.log("Hello World");
+
 let bookList = [
 	{ title: "Don Quixote", author: "Miguel de Cervantes" },
 	{ title: "Ulysses", author: "James Joyce" },
